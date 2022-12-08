@@ -13,9 +13,6 @@
 ##  Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbejaouiJS&theme=blue-green)
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
@@ -69,7 +66,7 @@
 ---
 
 
-[linked]: https://linkedin.com/in/ahmed-bejaoui-75b57318a
+[linked]: https://tn.linkedin.com/in/ahmedbejaoui
 [twitter]: https://twitter.com/Ahmed__Bejaoui
-[linkedin]: https://linkedin.com/in/ahmed-bejaoui-75b57318a
+[linkedin]: https://tn.linkedin.com/in/ahmedbejaoui
 [githubhomepage]: https://github.com/ahmedbejaouiJS 
