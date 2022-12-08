@@ -5,10 +5,10 @@
 
 ## I'm a Engineer that love to work with Technology !!
 
-- 🌱 I’m currently learning about  Golang 
-- 👯 I’m looking to collaborate with others
-- 🥅 2021 Goals: Contribute and share knowledge
-- ⚡ Fun fact: I love to Cycling and Cooking
+- 🌱 I’m currently learning ( Penetration Testing - Golang ) 
+- 👯 Am looking to collaborate with others in PenTest - Go 
+- 🥅 2022 Goals: Contribute and share knowledge
+- ⚡ Fact: If you want to see something beautiful, look at the mirror
 
 ##  Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbejaouiJS&theme=blue-green)
