@@ -1,7 +1,8 @@
-### Hi there, I'm Ahmed - aka [AhmedJS][linked] 👋
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/Ahmed__Bejaoui?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAhmed__Bejaoui&screen_name=Ahmed__Bejaoui)
-
+<img src="https://github.com/ahmedbejaouiJS/ahmedbejaouiJS/blob/main/banner.png" alt="Hello world!!">
+<p align="center"> 
+  Profile Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ahmedbejaouiJS/count.svg" />
+</p>
 
 ## I'm a Engineer that love to work with Technology !!
 
@@ -9,6 +10,8 @@
 - 👯 Am looking to collaborate with others in PenTest - Go 
 - 🥅 2022 Goals: Contribute and share knowledge
 - ⚡ Fact: If you want to see something beautiful, look at the mirror
+
+
 
 ##  Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbejaouiJS&theme=blue-green)
