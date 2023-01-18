@@ -14,7 +14,7 @@
 
 
 ##  Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbejaouiJS&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmedbejaouiJS&theme=blue-green&line_height=40&hide=css)
 
 
 ### Connect with me:
